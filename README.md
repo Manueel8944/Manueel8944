@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img align="right" height="150" src="https://i.gifer.com/NPV4.gif"  />
 </div>
 
 ###
@@ -45,12 +44,13 @@
 
 ###
 
+
 <p align="left">💻 Multiplatform Application Developer graduated in DAM (Multiplatform Application Development). Passionate about programming, problem solving, and continuous learning.<br><br>During my studies I worked with technologies such as Java, SQL databases, object-oriented programming, and user interface development. I enjoy building clean, efficient software and improving my skills through personal and academic projects.<br><br>On this profile you will find projects developed during my studies as well as personal projects where I continue learning and experimenting with new technologies.<br><br>🚀 Currently focused on improving my development skills, learning new tools, and growing as a software developer.</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manueel8944/manueel8944/output/snake.svg" alt="Snake animation" />
+<img align="left" height="150" src="https://i.gifer.com/NPV4.gif"  />
 
 ###
